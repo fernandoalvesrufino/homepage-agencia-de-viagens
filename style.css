@@ -3,3 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  
+}
+
+body {
+  text-align: center;
+  height: 100vh;
+}
+
+main {
+  margin: 64px auto;
+}
+
