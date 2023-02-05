@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desafio 2 do Explorer - Recriando o layout de uma homepage de agência de viagens
+Desafio do Explorer - Recriando o layout de uma homepage de agência de viagens
 
 - [Acesse o projeto finalizado, online](https://fernandoalvesrufino.github.io/homepage-agencia-de-viagens/)
 
