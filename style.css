@@ -36,7 +36,10 @@ main h1 strong {
 p {
   font-size: 15px;
   line-height: 22px;
+  width: 540px;
+  margin: auto;
 }
+
 
 p span {
   color: #3F3D56;
